@@ -13,6 +13,6 @@ Analayzing data extracted from 3 diferent US cities with python.
 Files used:
 
 bikeshare.py 
-chicago.csv n
-ew_york_city.csv 
+chicago.csv 
+new_york_city.csv 
 washington.csv
