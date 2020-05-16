@@ -29,7 +29,7 @@ def get_filters():
     
     while True:
         month = input('\nPlease enter a month:\n').lower()
-        if month in ["january", "february", "march", "april", "may", "june"]:
+        if month in ["january", "february", "march", "april", "may", "june", "all"]:
             break
         else:
             print('\nInvalid input, try again!\n')
@@ -89,13 +89,13 @@ def time_stats(df):
     # TO DO: display the most common month
    
     common_month = df['month'].mode()[0]
-    print('Most Common Month:', common_month)
+    print('\nMost Common Month:', common_month\n')
 
 
 
     # TO DO: display the most common day of week
     most_common_day = df['day_of_week'].mode()[0]
-    print('Most Common day:', most_common_day)
+    print('\nMost Common day:', most_common_day\n')
 
 
     # TO DO: display the most common start hour
