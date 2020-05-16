@@ -2,13 +2,17 @@ Date created
 
 15/5/2020
 
+Date updated
+
+16/5/2020
+
 Project Title:
 
-Dacity Bikeshare Project bilud with Python
+Udacity Bikeshare Project build with Python
 
 Description:
 
-Analayzing data extracted from 3 diferent US cities with python.
+Analyzing data using python extracted from 3 different US cities which are Chicago, New York city and the capital Washington DC. 
 
 Files used:
 
